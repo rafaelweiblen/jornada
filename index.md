@@ -1,4 +1,4 @@
-## Bem vindo ao laboratório de estudo pessoal 
+## Bem vindo ao laboratório de estudo pessoal! 
 
 You can use the [editor on GitHub](https://github.com/rafaelweiblen/jornada/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
