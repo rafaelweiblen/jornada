@@ -1,0 +1,28 @@
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+}
+
+#text {
+    float: left;
+    font-size: 1.5em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 17.064607%;
+    margin-top: 138px;
+    clear: none;
+    min-height: 0px;
+    min-width: 86px;
+    display: block;
+    font-family: helvetica;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
